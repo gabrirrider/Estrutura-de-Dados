@@ -1,0 +1,1 @@
+Este repositório contém um projeto em Python dedicado ao estudo de estruturas de dados, com ênfase em pilhas, vetores ordenados e vetores não ordenados. O projeto oferece implementações funcionais dessas estruturas, proporcionando uma oportunidade para aprendizado e exploração das operações fundamentais associadas a cada uma delas.

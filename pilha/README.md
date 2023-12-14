@@ -1,0 +1,1 @@
+As pilhas são estruturas de dados fundamentais baseadas no princípio Last In, First Out (LIFO). Ou seja, o último elemento adicionado à pilha é o primeiro a ser removido. Este projeto fornece uma implementação de pilha em Python, permitindo operações como empilhar (push) e desempilhar (pop), fornecendo uma base sólida para compreensão e aplicação de pilhas em diversos contextos.
